@@ -1,9 +1,9 @@
 # nlp-project-1
 NLP project to satisfy course objectives.  
 
-## Objective
-Complete Project A: https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview,
-which attempts to predict the Pearson similarity score between phrases extracted from US Patents.
+## Problem Statement and Objective
+Complete Project A: https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview.
+The objective is to predict the Pearson similarity score between phrases extracted from US Patents.
 
 ## Methodology
 
